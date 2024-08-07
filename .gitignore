@@ -1,0 +1,7 @@
+vit-base-fashion
+fashion-dataset
+venv
+__pycache__
+embeddings.npy
+ids.npy
+index
